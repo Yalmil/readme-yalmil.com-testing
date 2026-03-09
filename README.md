@@ -29,4 +29,5 @@
 <img src="https://skillicons.dev/icons?perline=8&i=js,electron,firebase,html,css,github,vscode">
 <p>
   <a href="https://yalmil.pages.dev">🌐 Sitio web </a>
+ <img src="https://stats.techy.lol/api/top-langs/?username=Yalmil&layout=compact&card_width=306&theme=dark&hide_title=false&langs_count=6">
 </p>
