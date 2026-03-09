@@ -20,6 +20,6 @@
 <p>
   :e_mail: <a href="mailto:yalmil63@gmail.com">yalmil63@gmail.com</a><br>
   <img src="https://yalmil.pages.dev/texturas/x.png" align=center> <a href="https://x.com/Yalmill">@Yalmill</a> en Twitter<br>
-  <a href="https://www.youtube.com/@yalmiil">@Yalmill</a><br>
+  <img src="https://yalmil.pages.dev/texturas/youtube.png" align=center> <a href="https://www.youtube.com/@yalmiil">@Yalmill</a><br>
   <a href="https://discord.gg/test">Servidor de Discord</a>
 </p>
