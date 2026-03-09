@@ -21,13 +21,13 @@
   <img src="https://yalmil.pages.dev/texturas/gmail.png" align=center> <a href="mailto:yalmil63@gmail.com">yalmil63@gmail.com</a><br>
   <img src="https://yalmil.pages.dev/texturas/x.png" align=center> <a href="https://x.com/Yalmill">@Yalmill</a><br>
   <img src="https://yalmil.pages.dev/texturas/youtube.png" align=center> <a href="https://www.youtube.com/@yalmiil">@Yalmill</a><br>
-  <img src="https://yalmil.pages.dev/texturas/discord.png" align=center> <a href="https://discord.gg/test">Servidor de Discord</a>
+  <img src="https://yalmil.pages.dev/texturas/discord.png" align=center> <a href="https://discord.gg/test">Servidor de Discord</a>}
+   <a href="https://yalmil.pages.dev">🌐 Sitio web </a>
 </p>
 
 
 <h1>Lenguajes/herramientas usadas:</h1>
 <img src="https://skillicons.dev/icons?perline=8&i=js,electron,firebase,html,css,github,vscode">
 <p>
-  <a href="https://yalmil.pages.dev">🌐 Sitio web </a>
  <img src="https://stats.techy.lol/api/top-langs/?username=Yalmil&layout=compact&card_width=306&theme=dark&hide_title=false&langs_count=6">
 </p>
