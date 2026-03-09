@@ -19,7 +19,7 @@
 <h1>Redes & Contacto</h1>
 <p>
   :e_mail: <a href="mailto:yalmil63@gmail.com">yalmil63@gmail.com</a><br>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzILkpdRIWCb0pwzMNs5lOGt4rwxBhFtQug&s" align=center> <a href="https://x.com/Yalmill">@Yalmill</a> en Twitter<br>
+  <img src="https://yalmil.pages.dev/texturas/x.png" align=center> <a href="https://x.com/Yalmill">@Yalmill</a> en Twitter<br>
   <a href="https://www.youtube.com/@yalmiil">@Yalmill</a><br>
   <a href="https://discord.gg/test">Servidor de Discord</a>
 </p>
