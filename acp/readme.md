@@ -34,6 +34,6 @@ En Mis projectos se encuentran todas las cosas creadas por AureComay:<br>
 <br>
 
 <h2>Sugerencias.</h2>
-- Cómo se menciono anteriormente, los usuarios pueden sugerir nuevas características en: https://aure.pages.dev/Sugerencia
+- Cómo se menciono anteriormente, los usuarios pueden sugerir nuevas características en: https://aure.pages.dev/Sugerencia<br>
 - Cómo Aure no escucha a su comunidad, las sugerencias las leeré yo (Yalmil).
 
