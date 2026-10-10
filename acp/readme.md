@@ -1,13 +1,15 @@
 <h1> AURE COMAY PAGES :D </h1>
 
-## Pos es una pagina mui epika
+<h3>Es una página, mui epika, hecha por AureComay.</h3>
+<br>
 
+<h2>Lenguajes y aplicaciones usadas en ACP:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,js,html,css,cloudflare" />
   </a>
 </p>
--Lenguajes y aplicaciones usadas en acp.
+
 
 # Guia general para trabajar aqui.
 
