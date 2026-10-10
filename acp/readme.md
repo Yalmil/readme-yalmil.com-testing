@@ -5,11 +5,7 @@
 
 <h2>Lenguajes y aplicaciones usadas en ACP:</h2>
 <br>
-<p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,js,html,css,cloudflare" />
-  </a>
-</p>
 
 
 <h2>Acerca de ACP.</h2>
