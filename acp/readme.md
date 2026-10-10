@@ -30,6 +30,7 @@ En Mis projectos se encuentran todas las cosas creadas por AureComay:
 - El cementerio de AureComay: servidor de Discord de AureComay sobre su canal de Youtube, (anteriormente "El Reino de AureComay").
 - FnaY: juego inspirado en Five Nights at Freddy's 1 remplazando a los personajes originales por amigos de AureComay, (idea de AureComay, actualmente siendo trabajada por Yalmil).
 - (Aclaración: el nombre "projecto" está hecho adrede, (es eso o le dio dislexia a Aure mientras lo escribía).
+<br>
 
 <h2>Sugerencias.</h2>
 - Cómo se menciono anteriormente, los usuarios pueden sugerir nuevas características en: https://aure.pages.dev/Sugerencia
