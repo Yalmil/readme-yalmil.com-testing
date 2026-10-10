@@ -1,4 +1,4 @@
-# AURE PAGES :D
+# AURE COMAY PAGES :D
 
 ## Pos es una pagina
 <h2>mui epika</h2>
