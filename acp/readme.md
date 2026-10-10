@@ -1,7 +1,6 @@
 <h1> AURE COMAY PAGES :D </h1>
 
 <h3>Es una página, mui epika, hecha por AureComay.</h3>
-<br>
 
 <h2>Lenguajes y aplicaciones usadas en ACP:</h2>
 <br>
