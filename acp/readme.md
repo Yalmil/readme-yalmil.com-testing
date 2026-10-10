@@ -23,13 +23,14 @@ En  Utilidades está lo principal de la página actualmente en esta categoría s
 - Sugerencias: permite enviar sugerencias para nuevas características de la página, usa una integración de Firebase.
 <br>
 <h3>Mis projectos.</h3>
-En Mis projectos se encuentran todas las cosas creadas por AureComay:
-- Letterballs wiki: wiki del lore del Reino Letterballs, historia creada principalmente por AureComay y Saantybl.
-- Mi yutuv ekisde: canal de AureComay de Youtube.
-- Servidor de loz randoms, obvio: servidor de Discord sobre el grupo de amigos "Los Randoms".
-- El cementerio de AureComay: servidor de Discord de AureComay sobre su canal de Youtube, (anteriormente "El Reino de AureComay").
-- FnaY: juego inspirado en Five Nights at Freddy's 1 remplazando a los personajes originales por amigos de AureComay, (idea de AureComay, actualmente siendo trabajada por Yalmil).
-- (Aclaración: el nombre "projecto" está hecho adrede, (es eso o le dio dislexia a Aure mientras lo escribía).
+
+En Mis projectos se encuentran todas las cosas creadas por AureComay:<br>
+- Letterballs wiki: wiki del lore del Reino Letterballs, historia creada principalmente por AureComay y Saantybl. <br>
+- Mi yutuv ekisde: canal de AureComay de Youtube.<br>
+- Servidor de loz randoms, obvio: servidor de Discord sobre el grupo de amigos "Los Randoms".<br>
+- El cementerio de AureComay: servidor de Discord de AureComay sobre su canal de Youtube, (anteriormente "El Reino de AureComay").<br>
+- FnaY: juego inspirado en Five Nights at Freddy's 1 remplazando a los personajes originales por amigos de AureComay, (idea de AureComay, actualmente siendo trabajada por Yalmil).<br>
+- (Aclaración: el nombre "projecto" está hecho adrede, (es eso o le dio dislexia a Aure mientras lo escribía).<br>
 <br>
 
 <h2>Sugerencias.</h2>
