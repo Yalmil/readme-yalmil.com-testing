@@ -1,6 +1,6 @@
 <h1> AURE COMAY PAGES :D </h1>
 
-<h3>Es una página, mui epika, hecha por AureComay.</h3>
+<h3>"Página, mui epika."</h3>
 <br>
 
 <h2>Lenguajes y aplicaciones usadas en ACP:</h2>
@@ -12,39 +12,26 @@
 </p>
 
 
-# Guia general para trabajar aqui.
+<h2>Acerca de ACP.</h2>
 
---------------------------------------------------
+ACP es una página creada por AureComay y Yalmil. Actualmente tiene 3 categorías, aquí una descripción más amplia de cada una:
 
-## Dentro de github
+<h3>Utilidades.</h3>
 
-### global.css
-* Global.css son los recursos globales para [AureComay pages.](https://aurecomay.github.io/AureComay-page/)
-* No se recomienda tocar global.css porque podrias romper todo el [sitio web](https://aurecomay.github.io/AureComay-page/).
-### [Aurecomay's page icons](https://github.com/AureComay/AureComay-page/tree/main/Aurecomay's%20page%20icons).
-* Como indica el nombre, son los iconos de la [pagina](https://aurecomay.github.io/AureComay-page/), los que aparecen en las pestañas.
-* Tampoco toques esto.
-* No se debe confundir con "[Img](https://github.com/AureComay/AureComay-page/tree/main/Img)".
-### [Img](https://github.com/AureComay/AureComay-page/tree/main/Img)
-* Son las imagenes de la [pagina](https://aurecomay.github.io/AureComay-page/).
-* No se debe confundir con "[Aurecomay's page icons](https://github.com/AureComay/AureComay-page/tree/main/Aurecomay's%20page%20icons)".
-* Aqui por ejemplo viene [TickTick.gif](https://github.com/AureComay/AureComay-page/blob/main/Img/TickTick.gif) de [Utilidades.html](https://github.com/AureComay/AureComay-page/blob/main/Utilidades.html).
-### [Snd](https://github.com/AureComay/AureComay-page/tree/main/Snd)
-* Son todos los sonidos de la [pagina](https://aurecomay.github.io/AureComay-page/), hasta musica.
-* Aqui por ejemplo va One bounce de [SobreMi.html](https://github.com/AureComay/AureComay-page/blob/main/SobreMi.html).
-### [Nueva-Carpeta](https://github.com/AureComay/AureComay-page/tree/main/nueva-carpeta)
-* Esto no sirve.
-* Tampoco lo toques.
+En  Utilidades está lo principal de la página actualmente en esta categoría solo hay: Clicker Temu y Sugerencias.
+- Clicker Temu: es un clicker muy básico hecho por Aure y remasterizado por Yalmil.
+- Sugerencias: permite enviar sugerencias para nuevas características de la página, usa una integración de Firebase.
+<br>
+<h3>Mis projectos.</h3>
+En Mis projectos se encuentran todas las cosas creadas por AureComay:
+- Letterballs wiki: wiki del lore del Reino Letterballs, historia creada principalmente por AureComay y Saantybl.
+- Mi yutuv ekisde: canal de AureComay de Youtube.
+- Servidor de loz randoms, obvio: servidor de Discord sobre el grupo de amigos "Los Randoms".
+- El cementerio de AureComay: servidor de Discord de AureComay sobre su canal de Youtube, (anteriormente "El Reino de AureComay").
+- FnaY: juego inspirado en Five Nights at Freddy's 1 remplazando a los personajes originales por amigos de AureComay, (idea de AureComay, actualmente siendo trabajada por Yalmil).
+- (Aclaración: el nombre "projecto" está hecho adrede, (es eso o le dio dislexia a Aure mientras lo escribía).
 
-## Dentro de firebase
-### Si teoricamente te doy acceso a firebase aqui tendras una guia.
-----
-No hay mucho que ver aqui pero
-## realtime database
-
-### Sugerencias
-* Las sugerencias de los usuarios son enviadas aqui.
-* No hay nada mas que decir.
-----
-# FIN.
+<h2>Sugerencias.</h2>
+- Cómo se menciono anteriormente, los usuarios pueden sugerir nuevas características en: https://aure.pages.dev/Sugerencia
+- Cómo Aure no escucha a su comunidad, las sugerencias las leeré yo (Yalmil).
 
