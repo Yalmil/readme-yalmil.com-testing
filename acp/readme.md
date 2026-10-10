@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Website-v1.6-text?logo=cyberdefenders&color=yellow"> <h1> AURE COMAY PAGES :D </h1> 
+<img src="https://img.shields.io/badge/AureComayPages-v1.1-401B6C?logo=trezor&labelColor=AF4DFF"> <h1> AURE COMAY PAGES :D </h1> 
 
 <h3>"Página mui epika."</h3>
 <br>
