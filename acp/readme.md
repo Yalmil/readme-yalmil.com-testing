@@ -6,7 +6,7 @@
 <h2>Lenguajes y aplicaciones usadas en ACP:</h2>
 <br>
     <img src="https://skillicons.dev/icons?i=github,js,html,css,cloudflare" />
-     <img src="https://stats.techy.lol/api/top-langs/?username=Yalmil&layout=compact&card_width=306&theme=dark&hide_title=false&langs_count=6">
+     <img src="https://stats.techy.lol/api/top-langs/?username=AureComay&layout=compact&card_width=306&theme=dark&hide_title=false&langs_count=6">
 
 
 <h2>Acerca de ACP.</h2>
