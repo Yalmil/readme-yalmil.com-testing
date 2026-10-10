@@ -1,6 +1,6 @@
 <h1> AURE COMAY PAGES :D </h1>
 
-<h3>"Página, mui epika."</h3>
+<h3>"Página mui epika."</h3>
 <br>
 
 <h2>Lenguajes y aplicaciones usadas en ACP:</h2>
