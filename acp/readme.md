@@ -1,4 +1,5 @@
-<h1> AURE COMAY PAGES :D </h1>
+<h1> AURE COMAY PAGES :D </h1> 
+[![idk](https://img.shields.io/badge/Website-v1.6-text?logo=cyberdefenders&color=yellow)](https://yalmil.pages.dev)
 
 <h3>"Página mui epika."</h3>
 <br>
