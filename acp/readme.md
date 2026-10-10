@@ -1,7 +1,7 @@
 # AURE COMAY PAGES :D
 
-## Pos es una pagina
-mui epika
+## Pos es una pagina mui epika
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,js,html,css,cloudflare" />
